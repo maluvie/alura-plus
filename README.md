@@ -2,7 +2,7 @@
 
 # Projeto Alura-Plus
 
-Projeto desenvolvido no curso HTML/CSS - Aula 5 do Alura.
+Projeto de página web desenvolvido no curso HTML/CSS - Aula 5 do Alura.
 
 ## Ferramentas utilizadas:
 
